@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T14:20:22.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="E0PpKLvIgDVdIUk10wsP" version="20.8.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-26T14:20:36.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AT7E6J_FqO3w3Mm4IWes" version="20.8.11" type="github" pages="2">
   <diagram name="Pagina-1" id="YSNBQgDCkUt4jB2jJ9PV">
     <mxGraphModel dx="3648" dy="2979" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1877,7 +1877,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iaxzpNshT-2pl_DYN9BX" name="Pagina-2">
-    <mxGraphModel dx="600" dy="1499" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="2131" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2983,38 +2983,6 @@
               <mxPoint x="655" y="880" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oHD_6rcdpiiLhU9l4huh-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="690" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oHD_6rcdpiiLhU9l4huh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1" source="oHD_6rcdpiiLhU9l4huh-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="194.8571428571429" y="830" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHD_6rcdpiiLhU9l4huh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1" source="oHD_6rcdpiiLhU9l4huh-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="885" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="237" y="893" />
-              <mxPoint x="237" y="925" />
-              <mxPoint x="135" y="925" />
-              <mxPoint x="135" y="885" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHD_6rcdpiiLhU9l4huh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1" source="oHD_6rcdpiiLhU9l4huh-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="153" y="893" />
-              <mxPoint x="153" y="870" />
-              <mxPoint x="125" y="870" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oHD_6rcdpiiLhU9l4huh-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="865" width="30" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
